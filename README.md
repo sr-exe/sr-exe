@@ -1,16 +1,16 @@
-## Hi there 👋
+ 👋 Hi, I'm Shubham Rathod  
 
-<!--
-**sr-exe/sr-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science (DSY Student, DBATU)**  
+💻 **Skills:** Java, CSS, HTML, Android Basics, Web Development  
+📌 **Projects:**  
+- [BIOMARK](#) – Facial recognition-based attendance system  
+- CSS & Web Layout Practice  
+- Java Programs Collection  
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** Full Stack Development, Git & GitHub  
+🚀 **Goals:** To build real-world projects and crack top placements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+LinkedIn : https://www.linkedin.com/in/shubham-rathod-337b40384  | Email:shubhamrathod4040@gmail.com  
+
+
