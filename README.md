@@ -1,11 +1,14 @@
  👋 Hi, I'm Shubham Rathod  
 
 🎓 **B.Tech Computer Science (DSY Student, DBATU)**  
-💻 **Skills:** Java, CSS, HTML, Android Basics, Web Development  
+💻 **Skills:** Java, CSS, HTML, Android Basics, Web Development, Networking, Cyber Security
 📌 **Projects:**  
 - [BIOMARK](#) – Facial recognition-based attendance system  
 - CSS & Web Layout Practice  
-- Java Programs Collection  
+- Java Programs Collection
+
+❤️**Portfolio Websit**
+- user friendly design
 
 🌱 **Currently Learning:** Full Stack Development, Git & GitHub  
 🚀 **Goals:** To build real-world projects and crack top placements  
