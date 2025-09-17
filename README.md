@@ -12,5 +12,6 @@
 
 📫 **Connect with me:**  
 LinkedIn : https://www.linkedin.com/in/shubham-rathod-337b40384  | Email:shubhamrathod4040@gmail.com  
+Instagram : https://www.instagram.com/mn_shubh/reels/
 
 
