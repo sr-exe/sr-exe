@@ -2,8 +2,9 @@
 
 🎓 **B.Tech Computer Science**  
 💻 **Skills:** Java, CSS, HTML, Android Basics, Web Development, Networking, Cyber Security
-📌 **Projects:**  
 
+
+📌 **Projects:**  
 - [BIOMARK](#) – Facial recognition-based attendance system  
 - CSS & Web Layout Practice  
 - Java Programs Collection
