@@ -13,7 +13,7 @@
 - user friendly design
 
 
-🌱 **Currently Learning:** Full Stack Development, Git & GitHub  
+🌱 **Currently Learning:** Full Stack Development, Git & GitHub, DSA, Computer Architechture, Bash etc...
 🚀 **Goals:** To build real-world projects and crack top placements  
 
 📫 **Connect with me:**  
