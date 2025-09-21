@@ -11,6 +11,8 @@
 
 ❤️**Portfolio Websit**
 - user friendly design
+- Easy navigations
+- Detailed
 
 
 🌱 **Currently Learning:** Full Stack Development, Git & GitHub, DSA, Computer Architechture, Bash etc...
