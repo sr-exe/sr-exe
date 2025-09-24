@@ -14,6 +14,10 @@
 - Easy navigations
 - Detailed
 
+🧠**Working on new project**
+- Real time transport tracking system
+- efficient for small cities
+- user friendly includes 3 modules
 
 🌱 **Currently Learning:** Full Stack Development, Git & GitHub, DSA, Computer Architechture, Bash etc...
 🚀 **Goals:** To build real-world projects and crack top placements  
