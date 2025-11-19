@@ -27,7 +27,7 @@
 
 
 🌱 **Currently Learning:** Full Stack Development, Git & GitHub, DSA, Computer Architechture, Bash etc...
-🚀 **Goals:** To build real-world projects and crack top placements  
+🚀 **Goals:** To build real-world projects.
 
 📫 **Connect with me:**  
 LinkedIn : https://www.linkedin.com/in/shubham-rathod-337b40384  | Email:shubhamrathod4040@gmail.com  
