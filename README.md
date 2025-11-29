@@ -11,7 +11,7 @@
 
 
 
-❤️**Portfolio Websit**
+❤️**Portfolio Website**
 - user friendly design
 - Easy navigations
 - Detailed
