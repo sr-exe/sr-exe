@@ -30,7 +30,7 @@
 🚀 **Goals:** To build real-world projects.
 
 📫 **Connect with me:**  
-📧Linkedin : [😍Shubham Rathod](https://www.linkedin.com/in/shubham-rathod-337b40384/) | Email:shubhamrathod4040@gmail.com  
-Instagram : https://www.instagram.com/mn_shubh/reels/
+📧Linkedin : [😍Shubham Rathod](https://www.linkedin.com/in/shubham-rathod-337b40384/) Email:shubhamrathod4040@gmail.com  
+Instagram : [mn_shubh]
+(https://www.instagram.com/mn_shubh)
 
-📧Linkedin : [😍Shubham](https://www.linkedin.com/in/shubham-rathod-337b40384/)
