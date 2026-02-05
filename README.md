@@ -31,6 +31,5 @@
 
 📫 **Connect with me:**  
 📧Linkedin : [😍Shubham Rathod](https://www.linkedin.com/in/shubham-rathod-337b40384/) Email:shubhamrathod4040@gmail.com  
-Instagram : [mn_shubh]
-(https://www.instagram.com/mn_shubh)
+Instagram : [mn_shubh](https://www.instagram.com/mn_shubh)
 
