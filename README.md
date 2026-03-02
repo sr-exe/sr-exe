@@ -73,7 +73,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-exe&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sr-exe&icon=5&color=6" />
-</p>
