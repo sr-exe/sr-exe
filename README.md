@@ -64,6 +64,15 @@
 
 ---
 
+## 💰 Support Me
+
+If you like my work and want to support my learning journey:
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+</a>
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sr-exe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
