@@ -1,84 +1,125 @@
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=SHUBHAM+RATHOD;NETWORKING+%7C+CYBERSECURITY+%7C+DEVOPS;LINUX+%7C+AUTOMATION+%7C+SECURE+SYSTEMS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0F3460,100:16213E&height=220&section=header&text=Shubham%20Rathod&fontSize=45&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Systems%20Enthusiast&descAlignY=60&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=SOFTWARE+DEVELOPMENT+%28Learning+Phase%29;LINUX+%7C+NETWORKING+%7C+CYBERSECURITY;OPERATING+SYSTEMS+EXPLORER;BUILDING+STRONG+SYSTEM+FOUNDATIONS" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-9658151a-5b3e-4b3f-9b3e-15d5f0f07a2d.gif" width="100%">
 </p>
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
-🔭 Exploring Networking labs, Linux systems, and Cybersecurity fundamentals  
+<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🌱 Currently learning DevOps practices, automation, and system-level concepts  
+🎓 Computer Science Student  
 
-💻 Strong programming foundation in multiple languages  
+💻 Currently in **Software Development Learning Phase**  
 
-⚡ Passionate about understanding how systems communicate, operate, and stay secure  
+🖥️ Strong interest in **Operating Systems & Linux Internals**  
 
----
+🌐 Exploring **Networking Fundamentals (TCP/IP, DNS, Routing)**  
 
-## 🌐 Connect With Me
+🔐 Learning **Cybersecurity Basics & System Security Concepts**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-rathod-337b40384)
+🧪 Curious about **Testing, debugging & system reliability**  
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamrathod4040@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mn_shubh/)
+📌 Focused on building deep technical foundations  
 
 ---
 
-# 💻 Tech Stack
+# 🌐 Connect With Me
 
-### 👨‍💻 Programming
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🌐 Networking & Security
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-rathod-337b40384">
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+  </a>
+  <a href="mailto:shubhamrathod4040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-16213E?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+  </a>
+  <a href="https://www.instagram.com/mn_shubh/">
+    <img src="https://img.shields.io/badge/Instagram-0F3460?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+  </a>
+</p>
 
 ---
 
-### ⚙ DevOps (Learning Phase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 💻 Technical Skills
+
+### 💻 Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,bash" />
+</p>
 
 ---
 
-## 🧠 Focus Areas
-
-🔹 Network Fundamentals (OSI, TCP/IP, Subnetting)  
-🔹 Linux Administration  
-🔹 Basic Cryptography & Secure Communication  
-🔹 Automation & Scripting  
-🔹 DevOps Workflow  
+### 🖥️ Systems & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,mysql" />
+</p>
 
 ---
 
-## 💰 Support Me
-
-If you like my work and want to support my learning journey:
-
-<a href="https://www.buymeacoffee.com/rathodshivb" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
-</a>
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sr-exe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sr-exe&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-exe&theme=tokyonight&hide_border=false&layout=compact)
+### 🛠 Software Development (Learning)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
+
+# 📚 Focus Areas
+
+🔹 Data Structures & Algorithms  
+🔹 Operating System Concepts  
+🔹 Linux CLI & Shell Scripting  
+🔹 Networking Fundamentals  
+🔹 Cybersecurity Basics  
+🔹 Debugging & Testing Practices  
+
+---
+
+# 🚧 Current Exploration
+
+🔸 Building Java-based applications  
+🔸 Practicing system-level concepts  
+🔸 Networking configuration experiments  
+🔸 Strengthening problem-solving skills  
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897803-3acb2f76-8c93-4e42-b7e0-2f6f5d9a3b5f.gif" width="100%">
+</p>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-exe&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-exe&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 💰 Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rathodshivb">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:0F3460,100:0A192F&height=120&section=footer"/>
+</p>
