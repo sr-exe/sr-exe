@@ -20,7 +20,7 @@
 
 🎓 Computer Science Student  
 
-💻 Currently in **Software Development Learning Phase**  
+💻 Currently in **Fullstack Development Learning Phase**  
 
 🖥️ Strong interest in **Operating Systems & Linux Internals**  
 
