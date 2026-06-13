@@ -86,7 +86,7 @@
 
 # 🚧 Current Exploration
 
-🔸 Building Java-based applications  
+🔸 Building real world projects 
 🔸 Practicing system-level concepts  
 🔸 Networking configuration experiments  
 🔸 Strengthening problem-solving skills  
