@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=FULLSTACK DEVELOPMENT+%28Learning+Phase%29;LINUX+%7C+NETWORKING+%7C+CYBERSECURITY;OPERATING+SYSTEMS+EXPLORER;BUILDING+STRONG+SYSTEM+FOUNDATIONS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=FULLSTACK+DEVELOPMENT+%28Learning+Phase%29;LINUX+%7C+NETWORKING+%7C+CYBERSECURITY;OPERATING+SYSTEMS+EXPLORER;BUILDING+STRONG+SYSTEM+FOUNDATIONS" />
 </p>
 
 <p align="center">
