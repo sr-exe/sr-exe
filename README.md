@@ -97,17 +97,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897803-3acb2f76-8c93-4e42-b7e0-2f6f5d9a3b5f.gif" width="100%">
 </p>
 
-# 📊 GitHub Stats
+
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-exe&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-exe&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-exe&theme=react-dark&hide_border=true"/>
-</p>
-
 ---
 
 # 💰 Support Me
