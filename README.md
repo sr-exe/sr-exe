@@ -1,15 +1,45 @@
-<!-- ================= HEADER ================= -->
+<!-- ========================================================= -->
+<!--                     SHUBHAM RATHOD                        -->
+<!--                JAVA FULL STACK DEVELOPER                  -->
+<!-- ========================================================= -->
+
+<!-- =========================== HEADER =========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0F3460,100:16213E&height=220&section=header&text=Shubham%20Rathod&fontSize=45&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Systems%20Enthusiast&descAlignY=60&descAlign=50"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:170000,65:4A0000,100:8B0000&height=240&section=header&text=Shubham%20Rathod&fontSize=52&fontColor=FF3B3B&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=59&descAlign=50&descSize=18&descColor=FFB3B3"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=FULLSTACK+DEVELOPMENT+%28Learning+Phase%29;LINUX+%7C+NETWORKING+%7C+CYBERSECURITY;OPERATING+SYSTEMS+EXPLORER;BUILDING+STRONG+SYSTEM+FOUNDATIONS" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=950&lines=JAVA+FULL+STACK+DEVELOPER+%7C+LEARNING+PHASE;JAVA+%7C+SPRING+BOOT+%7C+REACT;REST+APIs+%7C+JPA+%7C+HIBERNATE+%7C+MYSQL;LINUX+%7C+NETWORKING+%7C+OPERATING+SYSTEMS;DATA+STRUCTURES+%26+ALGORITHMS;BUILDING+REAL+WORLD+PROJECTS;LEARN+%7C+BUILD+%7C+DEBUG+%7C+REPEAT"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-9658151a-5b3e-4b3f-9b3e-15d5f0f07a2d.gif" width="100%">
+  <img
+    src="https://komarev.com/ghpvc/?username=sr-exe&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/sr-exe?label=FOLLOWERS&style=for-the-badge&color=4A0000&labelColor=050505"
+    alt="GitHub followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/sr-exe?label=STARS&style=for-the-badge&color=8B0000&labelColor=050505"
+    alt="GitHub stars"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212897782-9658151a-5b3e-4b3f-9b3e-15d5f0f07a2d.gif"
+    width="100%"
+    alt="Animated divider"
+  />
 </p>
 
 ---
