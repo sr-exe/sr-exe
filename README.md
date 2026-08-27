@@ -1,13 +1,13 @@
 <!-- ========================================================= -->
 <!--                     SHUBHAM RATHOD                        -->
-<!--                JAVA FULL STACK DEVELOPER (LEARNING)                 -->
+<!--                JAVA FULL STACK DEVELOPER LEARNING         -->
 <!-- ========================================================= -->
 
 <!-- =========================== HEADER =========================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:170000,65:4A0000,100:8B0000&height=250&section=header&text=Shubham%20Rathod&fontSize=52&fontColor=FF3B3B&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=59&descAlign=50&descSize=18&descColor=FFB3B3"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:170000,65:4A0000,100:8B0000&height=250&section=header&text=Shubham%20Rathod&fontSize=52&fontColor=FF3B3B&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer(LEARNING)%20%7C%20Computer%20Science%20Student&descAlignY=59&descAlign=50&descSize=18&descColor=FFB3B3"
     width="100%"
   />
 </p>
