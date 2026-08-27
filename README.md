@@ -127,11 +127,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897803-3acb2f76-8c93-4e42-b7e0-2f6f5d9a3b5f.gif" width="100%">
 </p>
 
-
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-exe&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-exe&theme=tokyo-night&hide_border=true" width="100%">
 </p>
 ---
 
