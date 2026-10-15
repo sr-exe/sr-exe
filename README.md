@@ -178,7 +178,6 @@ public class Developer {
 
 ---
 
-## 💰 Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/rathodshivb">
